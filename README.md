@@ -47,14 +47,14 @@ public class TesteProjeto {
 }
 ```
 
-##📦 Estrutura de Diretórios
+📦 Estrutura de Diretórios
 
 src/ ├── Pessoa.java ├── Fornecedor.java ├── Empregado.java ├── Administrador.java ├── Operario.java └── Vendedor.java
 
-##📝 Requisitos 
+📝 Requisitos 
 Java 8 ou superior: Certifique-se de que o JDK está instalado e configurado corretamente. IDE: Recomenda-se o uso de uma IDE como IntelliJ IDEA, Eclipse ou NetBeans para facilitar o desenvolvimento.
 
-##🔄 Executando o Projeto
+🔄 Executando o Projeto
 
 1.Clone o repositório:
 
@@ -75,7 +75,8 @@ javac src/main.java
 java src.main
 ````
 
-##📚 Documentação Para mais detalhes sobre a implementação e o uso das classes, consulte os comentários no código-fonte. Eles fornecem uma descrição detalhada dos métodos e atributos utilizados.
+📚 Documentação 
+Para mais detalhes sobre a implementação e o uso das classes, consulte os comentários no código-fonte. Eles fornecem uma descrição detalhada dos métodos e atributos utilizados.
 
 👨‍💻 Autor: Danielle Sanches
 📅 Última Atualização: Agosto de 2024
