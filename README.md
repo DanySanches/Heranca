@@ -57,15 +57,22 @@ src/ ├── Pessoa.java ├── Fornecedor.java ├── Empregado.java �
 
 1.Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
+```bash
+git clone https://github.com/DanySanches/Heranca
+````
 2.Navegue até o diretório do projeto:
 
+```bash
 cd seu-repositorio
+````
 
 3.Compile e execute o programa de teste:
 
-javac src/TesteProjeto.java java src.TesteProjeto
+```bash
+javac src/main.java 
+
+java src.main
+````
 
 📚 Documentação Para mais detalhes sobre a implementação e o uso das classes, consulte os comentários no código-fonte. Eles fornecem uma descrição detalhada dos métodos e atributos utilizados.
 
