@@ -45,6 +45,7 @@ public class TesteProjeto {
         System.out.println("Salário do Vendedor: " + vendedor.calcularSalario());
     }
 }
+```
 
 📦 Estrutura de Diretórios
 
